@@ -8,11 +8,11 @@ export const Navigation = () => {
   }
 
   return (
-    <nav className="bg-gray-800 fixed w-full top-0 left-0 z-50">
+    <nav className="bg-gray-700 fixed w-full top-0 left-0 z-50">
       <div className="container mx-auto px-4 py-9 flex justify-between items-center">
         {/* Logo/Brand */}
-        <a className="text-white text-xl font-bold" href="#page-top">
-          Inclusive World 
+        <a className="text-white text-4xl font-bold" href="#page-top">
+          InclusiveWorld
         </a>
         {/* Hamburger Menu Button */}
         <button
