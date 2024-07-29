@@ -1,0 +1,77 @@
+/* client/src/App.css */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: #4A5568; /* Gray-800 */
+  margin-bottom: 1.5rem;
+}
+
+input {
+  border: 1px solid #CBD5E0; /* Gray-300 */
+  border-radius: 0.5rem;
+  padding: 12px;
+  width: 100%;
+  transition: border-color 0.2s;
+}
+
+input:focus {
+  outline: none;
+  border-color: #4299E1; /* Blue-500 */
+}
+
+button {
+  background-color: #3182CE; /* Blue-600 */
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 0.5rem;
+  width: 100%;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #2B6CB0; /* Blue-500 */
+}
+
+button:disabled {
+  opacity: 0.5;
+}
+
+.error {
+  color: #E53E3E; /* Red-600 */
+  text-align: center;
+}
+
+.sign-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.sign {
+  margin: 1rem;
+  text-align: center;
+}
+
+.sign img {
+  width: 80px;
+  height: 80px;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.sign p {
+  margin-top: 0.5rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #4A5568; /* Gray-700 */
+}

@@ -7,9 +7,13 @@ export const Navigation = () => {
     setIsOpen(!isOpen)
   }
 
+  const handleLinkClick = () => {
+    setIsOpen(false) // Close the menu when a link is clicked
+  }
+
   return (
-    <nav className="bg-gray-700 fixed w-full top-0 left-0 z-50">
-      <div className="container mx-auto px-4 py-9 flex justify-between items-center">
+    <nav className="bg-gray-800 shadow-lg fixed w-full top-0 left-0 z-50">
+      <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo/Brand */}
         <a className="text-white text-4xl font-bold" href="#page-top">
           InclusiveWorld
@@ -36,29 +40,57 @@ export const Navigation = () => {
         </button>
         {/* Navigation Links */}
         <div
-          className={`lg:flex lg:items-center lg:space-x-4 lg:ml-auto ${
+          className={`lg:flex lg:items-center lg:space-x-4 lg:ml-auto transition-all duration-300 ease-in-out ${
             isOpen ? "block" : "hidden"
           }`}
         >
-          <a className="text-white hover:text-gray-400" href="#features">
+          <a
+            className="text-white hover:text-gray-400"
+            href="#features"
+            onClick={handleLinkClick}
+          >
             Features
           </a>
-          <a className="text-white hover:text-gray-400" href="#about">
+          <a
+            className="text-white hover:text-gray-400"
+            href="#about"
+            onClick={handleLinkClick}
+          >
             About
           </a>
-          <a className="text-white hover:text-gray-400" href="#services">
+          <a
+            className="text-white hover:text-gray-400"
+            href="#services"
+            onClick={handleLinkClick}
+          >
             Services
           </a>
-          <a className="text-white hover:text-gray-400" href="#portfolio">
+          <a
+            className="text-white hover:text-gray-400"
+            href="#portfolio"
+            onClick={handleLinkClick}
+          >
             Gallery
           </a>
-          <a className="text-white hover:text-gray-400" href="#testimonials">
+          <a
+            className="text-white hover:text-gray-400"
+            href="#testimonials"
+            onClick={handleLinkClick}
+          >
             Testimonials
           </a>
-          <a className="text-white hover:text-gray-400" href="#team">
+          <a
+            className="text-white hover:text-gray-400"
+            href="#team"
+            onClick={handleLinkClick}
+          >
             Team
           </a>
-          <a className="text-white hover:text-gray-400" href="#contact">
+          <a
+            className="text-white hover:text-gray-400"
+            href="#contact"
+            onClick={handleLinkClick}
+          >
             Contact
           </a>
         </div>
