@@ -1,132 +1,144 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Inclusion",
+    "paragraph": " Addressing challenges faced by marginalized communities is crucial for creating a more inclusive and equitable future."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Marginalized communities face significant hurdles, primarily due to a fundamental lack of awareness and access to information. Addressing these challenges is crucial for creating a more inclusive and equitable future.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Enhanced machine translation for information spread and distribution.",
+      "New-gen sign language interpretation for online learning.",
+      "New-gen speech recognition and text-to-speech conversion for learning content accessibility.",
+      "Crowdsourced translation platforms for community content creation."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "SMS-based information services.",
+      "Voice-enabled information access platforms for the visually impaired.",
+      "Blockchain-powered platforms for micro-finance and economic inclusion.",
+      "Chatbots for social service outreach and support.",
+      "Real-Time captioning and dubbing for multimedia content accessibility."
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Machine Translation",
+      "largeImage": "img/portfolio/machine-translation-large.jpg",
+      "smallImage": "img/portfolio/machine-translation-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Sign Language Interpretation",
+      "largeImage": "img/portfolio/sign-language-large.jpg",
+      "smallImage": "img/portfolio/sign-language-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Speech Recognition",
+      "largeImage": "img/portfolio/speech-recognition-large.jpg",
+      "smallImage": "img/portfolio/speech-recognition-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Crowdsourced Translation",
+      "largeImage": "img/portfolio/crowdsourced-translation-large.jpg",
+      "smallImage": "img/portfolio/crowdsourced-translation-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "SMS Services",
+      "largeImage": "img/portfolio/sms-services-large.jpg",
+      "smallImage": "img/portfolio/sms-services-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Voice-Enabled Platforms",
+      "largeImage": "img/portfolio/voice-enabled-large.jpg",
+      "smallImage": "img/portfolio/voice-enabled-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Blockchain Platforms",
+      "largeImage": "img/portfolio/blockchain-large.jpg",
+      "smallImage": "img/portfolio/blockchain-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Chatbots",
+      "largeImage": "img/portfolio/chatbots-large.jpg",
+      "smallImage": "img/portfolio/chatbots-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Real-Time Captioning",
+      "largeImage": "img/portfolio/real-time-captioning-large.jpg",
+      "smallImage": "img/portfolio/real-time-captioning-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Machine Translation",
+      "text": "Leverage AI to translate vital information resources into native languages, ensuring information accessibility."
+    },
+
+    {
+      "icon": "fa fa-microphone",
+      "name": "Speech Recognition & TTS",
+      "text": "Enable speech recognition and text-to-speech conversion for accessibility in learning content."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Crowdsourced Translation",
+      "text": "Empower community members to translate essential information resources and share them locally."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mobile",
+      "name": "SMS Services",
+      "text": "Deliver essential updates and alerts via SMS, catering to those with limited internet access or basic feature phones."
+    },
+    {
+      "icon": "fa fa-volume-up",
+      "name": "Voice-Enabled Platforms",
+      "text": "Allow visually impaired users to access information resources through voice commands."
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "Blockchain for Micro-Finance",
+      "text": "Offer secure and verifiable digital identities to access micro-loans and financial services."
+    },
+    {
+      "icon": "fa fa-comments",
+      "name": "Chatbots for Support",
+      "text": "Provide AI chatbots that can answer questions on social services, healthcare resources, and legal rights."
+    },
+    {
+      "icon": "fa fa-video-camera",
+      "name": "Real-Time Captioning & Dubbing",
+      "text": "Automatically generate captions and dub audio content into multiple languages for multimedia accessibility."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Enhanced machine translation has made accessing government documents in our native language much easier.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"AI-powered sign language interpretation has revolutionized online learning for the deaf community.\"",
+      "name": "Jane Smith"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Speech recognition technology has been a game-changer for individuals with limited literacy skills.\"",
+      "name": "Sam Wilson"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Crowdsourced translation platforms have empowered us to share vital information within our community.\"",
+      "name": "Mary Johnson"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"SMS-based information services ensure we receive critical updates even without internet access.\"",
+      "name": "Mike Davis"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Voice-enabled platforms have made accessing audiobooks and podcasts much easier for the visually impaired.\"",
+      "name": "Anna Lee"
     }
   ],
   "Team": [
@@ -152,33 +164,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Model Town Patiala",
+    "phone": "+91 8837805712",
+    "email": "skumar125_@gmail.edu",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-language",
+      "title": "Machine Translation",
+      "text": "Translate vital information resources into native languages."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-users",
+      "title": "Sign Language Interpretation",
+      "text": "AI-powered sign language interpretation for online learning."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-microphone",
+      "title": "Speech Recognition",
+      "text": "Speech recognition and text-to-speech conversion for accessibility."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-users",
+      "title": "Crowdsourced Translation",
+      "text": "Community-driven translation of essential information resources."
     }
   ]
 }

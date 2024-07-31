@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 export const Features = (props) => {
   return (
@@ -21,5 +21,5 @@ export const Features = (props) => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
