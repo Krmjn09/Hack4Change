@@ -1,11 +1,10 @@
 import React, { useState, useEffect } from "react"
 import axios from "axios"
-import { FaUsers, FaPlus, FaMobileAlt, FaGlobe } from "react-icons/fa"
 import "./Css/Info.css"
 import Signlang from "../components/Signlang"
 import VideoWithCaptions from "../components/VideoWithCaptions" // Import the VideoWithCaptions component
 
-const API_KEY = "AIzaSyBLUyx7EhbBfQ421darqJPWjv6y0So3jSI"
+const API_KEY = ""
 
 // Function to translate text using Google Cloud Translation API
 const translateText = async (text, targetLang) => {
